@@ -17,7 +17,6 @@ To join you will need to press F6 then type the following, if successful you sho
 
 ```
 open 94.16.104.174:7777
-
 ```
 
 ## Admins
